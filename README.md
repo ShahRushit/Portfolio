@@ -1,3 +1,3 @@
 <html>
-  <title>Rushit Shah</titile>  
+  <title>Rushit Shah</title>  
 </html>
